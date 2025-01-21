@@ -1,3 +1,3 @@
-# bolt-stocks
+# Template for Stock Based Application
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/donvito/bolt-stocks)# Stock-Exchange-Web-Template
+
